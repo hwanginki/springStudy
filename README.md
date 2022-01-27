@@ -24,4 +24,12 @@ https://meongj-devlog.tistory.com/122
 웹앱이름/WEB-INF/web.xml : web app의 개별 설정
 [STS] 프로젝트/src/main/webapp/WEB-INF/web.xml
 
+# MIME(Multipurpost Internet Mail Extensions) : 텍스트 기반 프로토콜에 바이너리 데이터 전송하기 위해 고안 HTTP의 Content-Type 헤더에 사용. 데이터의 타입을 명시
+
+# 관심사의 분리 Separation of Concerns
+ - 공통 코드의 분리 - 입력의 분리
+ - 출력(view)의 분리 - 변하는 것과 변하지 않는 것의 분리
+ - MVC 패턴
+
 # 웹 애플리케이션 서버(WAS) : 웹 애플리케이션을 서비스하는 서버
+
